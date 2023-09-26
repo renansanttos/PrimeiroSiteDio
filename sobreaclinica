@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica | Pequeno Mundinho</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="template.html">Página Principal</a></li>
+                <li><a href="sobreaclinica.html">Sobre a clínica</a></li>
+                <li><a href="horarioatendimento.html">Horário de Atendimento</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="meuprimeiromundo2.PNG" width="450"/>
+            </div>    
+            <div class="content">
+                <h1>Nossos Serviços</h1>
+                <h3>Consultas Agendadas</h3>
+                <p>Atendimento médico infantil com hora marcada.<br>
+                A clínica Meu Pequeno Mundo tem médicos pediatras de várias especialidades.<br>
+                Ligue e agende um horário.</p>
+                <h3>Vacinação</h3>
+                <p>Sala de vacinação com as principais vacinas adulto e infantil. Proteção para toda a sua família.<br>
+                 A clínica Primme Vacinas administra a sala de vacinação dentro das dependências da Meu Pequeno Mundo.</p>
+            </div>    
+            <div class="footer">
+                Nosso endereço<br>
+                Juvan Rocha com Inicio da Rua Delminda Silveira, 30
+                <br>
+                <br>
+                Horário de Atendimento:<br>
+                Segunda à Sexta das 08:00 até 19:00h<br>
+                Sábados / Feriados das 08:00 até as 14:00h<br>    
+            </div>
+        </div>
+    </div>
+</body>
+</html>
